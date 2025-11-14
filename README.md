@@ -12,7 +12,8 @@ After that, I developed the dashboard page, which includes a table displaying al
 When a user clicks on any project row, they are taken to a project details page, where they can view the full description and update the project’s status based on its progress.
 
 Finally, I added a “+” button at the corner of the dashboard. This button allows users to create new projects by entering the project’s title, description, owner, status, and date of creation
-
+# Important
+If you didnt enter the email as "admin@example.com" and the password as "admin" you will not be able to login to the dasborad page.
 ---
 
 ## 🚀 Features
