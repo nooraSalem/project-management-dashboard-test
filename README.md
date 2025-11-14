@@ -57,5 +57,14 @@ src/
  │    ├── Dashboard.jsx
  │    ├── ProjectDetails.jsx
  └── App.jsx
+# Setup & Installation Instructions
+- Prerequisites
+  - Before starting, make sure you have the following installed on your machine:
+      - Node.js (v16 or later Download from: https://nodejs.org)
+      - npm (comes with Node.js)
+      - Git (Download from: https://git-scm.com)
 
+- Clone the Repository from GitHub
+    - Open Terminal (Mac) or Command Prompt (Windows)
+    - enter this command: "git clone 
 
