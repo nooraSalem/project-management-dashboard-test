@@ -66,5 +66,11 @@ src/
 
 - Clone the Repository from GitHub
     - Open Terminal (Mac) or Command Prompt (Windows)
-    - enter this command: "git clone 
+    - Enter this command: "git clone https://github.com/nooraSalem/project-management-dashboard-test.git"
+    - Then move to the project folder using this command "cd project-management-dashboard-test"
+- Install Project packges
+    - Use the "npm install" command to install React, Material UI, Axios and all other dependencies used in the project.
+- Start the Project
+    - Use the "npm start" to start the app
+    - After running this command the browser will automatically open the app at "http://localhost:3000"
 
